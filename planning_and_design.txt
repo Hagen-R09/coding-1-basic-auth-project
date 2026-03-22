@@ -2,12 +2,11 @@
 APP PLANNING & DESIGN
 =========================
 
-Plan your app before coding. You can build any app you want, but it must include authentication and a secret page.
-
 1. PROJECT NAME & THEME
 -------------------------
 - What is your app called, and what type of app is it?  
 - What style or vibe do you want users to experience?
+- What about your app will require a log-in structure?
 
 2. CORE FUNCTIONALITY
 -------------------------
@@ -15,13 +14,14 @@ Plan your app before coding. You can build any app you want, but it must include
 - What optional features could make your app more interactive or personalized?
 
 3. SECRET OR PERSONALIZED CONTENT
+
 -------------------------
 - What content will users see after logging in?  
-- Will this content change depending on the user or over time?
+- Will this content change depending on who is using the app (admin, user, special user?)
 
 4. USER EXPERIENCE (UX) DESIGN
 -------------------------
-- How should your app look and feel?  
+- How should your app look and feel?
 - How will users navigate between pages?
 
 5. SECURITY FEATURES
@@ -31,10 +31,5 @@ Plan your app before coding. You can build any app you want, but it must include
 
 6. OPTIONAL CREATIVE ENHANCEMENTS
 -------------------------
-- What customization or fun features could users enjoy?  
+- What customization or fun features could users enjoy?
 - Are there interactive elements, like games, quizzes, or badges, you could include?
-
-7. PLAYTESTING & ETHICAL HACKING
--------------------------
-- How could someone try to “break into” your app safely?  
-- What measures will you take to secure your app against those attempts?
