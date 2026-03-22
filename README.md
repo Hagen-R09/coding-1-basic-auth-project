@@ -72,4 +72,3 @@ In this project, you will design and build a web application with a basic **logi
         * Style the pages with CSS to improve the user interface.
         * Implement a “Reset Database” button for easy testing.
         * Add additional security features (e.g., session timeouts, email verification).
->>>>>>> 43afba7 (Fixed registration error (server locking))
