@@ -4,32 +4,32 @@ APP PLANNING & DESIGN
 
 1. PROJECT NAME & THEME
 -------------------------
-- What is your app called, and what type of app is it?  
-- What style or vibe do you want users to experience?
-- What about your app will require a log-in structure?
+- What is your app called, and what type of app is it?  notsey, a notation app
+- What style or vibe do you want users to experience? an artistic welcoming vibe, as I want the app to focus on art
+- What about your app will require a log-in structure? making an account so that your notes can be saved
 
 2. CORE FUNCTIONALITY
 -------------------------
-- What are the essential features your app must have?  
-- What optional features could make your app more interactive or personalized?
+- What are the essential features your app must have?  an ability to create notes similar to google docs or the notes app
+- What optional features could make your app more interactive or personalized? sketch notes and image importation
 
 3. SECRET OR PERSONALIZED CONTENT
 
 -------------------------
-- What content will users see after logging in?  
-- Will this content change depending on who is using the app (admin, user, special user?)
+- What content will users see after logging in?  their saved notes, along with folders they can make
+- Will this content change depending on who is using the app (admin, user, special user?) likely not
 
 4. USER EXPERIENCE (UX) DESIGN
 -------------------------
-- How should your app look and feel?
-- How will users navigate between pages?
+- How should your app look and feel? try to make it clean, but also maybe a bit technical to use, definitely poppy looking, try to be more like the notes app or the sketch app.
+- How will users navigate between pages? tabbing and or files and folders like google docs and drive
 
 5. SECURITY FEATURES
 -------------------------
-- What password and authentication rules will you enforce?  
-- How will you protect secret pages from unauthorized access?
+- What password and authentication rules will you enforce?  probably 2fA
+- How will you protect secret pages from unauthorized access? similar to google docs , files are only allowed for given accounts, so ZWe would email about people entering your account
 
 6. OPTIONAL CREATIVE ENHANCEMENTS
 -------------------------
-- What customization or fun features could users enjoy?
-- Are there interactive elements, like games, quizzes, or badges, you could include?
+- What customization or fun features could users enjoy? artistic games
+- Are there interactive elements, like games, quizzes, or badges, you could include? maybe drawing games
